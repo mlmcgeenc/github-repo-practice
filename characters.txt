@@ -1,2 +1,4 @@
 This file contains some information about our characters
 Catsby
+
+Added info to character file
